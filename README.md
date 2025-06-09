@@ -4,6 +4,7 @@ Aplicação simples para gerenciamento de estoque, com interface gráfica feita 
 ---
 
 🚀 **Funcionalidades**
+
 ✅ Adição de novos produtos ao estoque  
 ✅ Listagem dos produtos registrados  
 ✅ Edição de produtos já existentes  
